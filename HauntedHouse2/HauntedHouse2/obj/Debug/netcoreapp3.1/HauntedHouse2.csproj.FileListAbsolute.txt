@@ -1,0 +1,12 @@
+C:\Users\holly\OneDrive\Documents\Code\Programming Projects\HauntedHouse2\HauntedHouse2\bin\Debug\netcoreapp3.1\HauntedHouse2.exe
+C:\Users\holly\OneDrive\Documents\Code\Programming Projects\HauntedHouse2\HauntedHouse2\bin\Debug\netcoreapp3.1\HauntedHouse2.deps.json
+C:\Users\holly\OneDrive\Documents\Code\Programming Projects\HauntedHouse2\HauntedHouse2\bin\Debug\netcoreapp3.1\HauntedHouse2.runtimeconfig.json
+C:\Users\holly\OneDrive\Documents\Code\Programming Projects\HauntedHouse2\HauntedHouse2\bin\Debug\netcoreapp3.1\HauntedHouse2.runtimeconfig.dev.json
+C:\Users\holly\OneDrive\Documents\Code\Programming Projects\HauntedHouse2\HauntedHouse2\bin\Debug\netcoreapp3.1\HauntedHouse2.dll
+C:\Users\holly\OneDrive\Documents\Code\Programming Projects\HauntedHouse2\HauntedHouse2\bin\Debug\netcoreapp3.1\HauntedHouse2.pdb
+C:\Users\holly\OneDrive\Documents\Code\Programming Projects\HauntedHouse2\HauntedHouse2\obj\Debug\netcoreapp3.1\HauntedHouse2.csprojAssemblyReference.cache
+C:\Users\holly\OneDrive\Documents\Code\Programming Projects\HauntedHouse2\HauntedHouse2\obj\Debug\netcoreapp3.1\HauntedHouse2.AssemblyInfoInputs.cache
+C:\Users\holly\OneDrive\Documents\Code\Programming Projects\HauntedHouse2\HauntedHouse2\obj\Debug\netcoreapp3.1\HauntedHouse2.AssemblyInfo.cs
+C:\Users\holly\OneDrive\Documents\Code\Programming Projects\HauntedHouse2\HauntedHouse2\obj\Debug\netcoreapp3.1\HauntedHouse2.dll
+C:\Users\holly\OneDrive\Documents\Code\Programming Projects\HauntedHouse2\HauntedHouse2\obj\Debug\netcoreapp3.1\HauntedHouse2.pdb
+C:\Users\holly\OneDrive\Documents\Code\Programming Projects\HauntedHouse2\HauntedHouse2\obj\Debug\netcoreapp3.1\HauntedHouse2.genruntimeconfig.cache

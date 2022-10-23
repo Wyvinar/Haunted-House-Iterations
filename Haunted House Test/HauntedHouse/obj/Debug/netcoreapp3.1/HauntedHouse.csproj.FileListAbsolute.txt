@@ -1,0 +1,24 @@
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\HauntedHouse\HauntedHouse\bin\Debug\netcoreapp3.1\HauntedHouse.exe
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\HauntedHouse\HauntedHouse\bin\Debug\netcoreapp3.1\HauntedHouse.deps.json
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\HauntedHouse\HauntedHouse\bin\Debug\netcoreapp3.1\HauntedHouse.runtimeconfig.json
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\HauntedHouse\HauntedHouse\bin\Debug\netcoreapp3.1\HauntedHouse.runtimeconfig.dev.json
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\HauntedHouse\HauntedHouse\bin\Debug\netcoreapp3.1\HauntedHouse.dll
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\HauntedHouse\HauntedHouse\bin\Debug\netcoreapp3.1\HauntedHouse.pdb
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\HauntedHouse\HauntedHouse\obj\Debug\netcoreapp3.1\HauntedHouse.csprojAssemblyReference.cache
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\HauntedHouse\HauntedHouse\obj\Debug\netcoreapp3.1\HauntedHouse.AssemblyInfoInputs.cache
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\HauntedHouse\HauntedHouse\obj\Debug\netcoreapp3.1\HauntedHouse.AssemblyInfo.cs
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\HauntedHouse\HauntedHouse\obj\Debug\netcoreapp3.1\HauntedHouse.dll
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\HauntedHouse\HauntedHouse\obj\Debug\netcoreapp3.1\HauntedHouse.pdb
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\HauntedHouse\HauntedHouse\obj\Debug\netcoreapp3.1\HauntedHouse.genruntimeconfig.cache
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\Haunted House Test\HauntedHouse\bin\Debug\netcoreapp3.1\HauntedHouse.exe
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\Haunted House Test\HauntedHouse\bin\Debug\netcoreapp3.1\HauntedHouse.deps.json
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\Haunted House Test\HauntedHouse\bin\Debug\netcoreapp3.1\HauntedHouse.runtimeconfig.json
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\Haunted House Test\HauntedHouse\bin\Debug\netcoreapp3.1\HauntedHouse.runtimeconfig.dev.json
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\Haunted House Test\HauntedHouse\bin\Debug\netcoreapp3.1\HauntedHouse.dll
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\Haunted House Test\HauntedHouse\bin\Debug\netcoreapp3.1\HauntedHouse.pdb
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\Haunted House Test\HauntedHouse\obj\Debug\netcoreapp3.1\HauntedHouse.csprojAssemblyReference.cache
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\Haunted House Test\HauntedHouse\obj\Debug\netcoreapp3.1\HauntedHouse.AssemblyInfoInputs.cache
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\Haunted House Test\HauntedHouse\obj\Debug\netcoreapp3.1\HauntedHouse.AssemblyInfo.cs
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\Haunted House Test\HauntedHouse\obj\Debug\netcoreapp3.1\HauntedHouse.dll
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\Haunted House Test\HauntedHouse\obj\Debug\netcoreapp3.1\HauntedHouse.pdb
+C:\Users\holly\OneDrive\Documents\SchoolStuff\ComputerScience\Code\Haunted House Test\HauntedHouse\obj\Debug\netcoreapp3.1\HauntedHouse.genruntimeconfig.cache
